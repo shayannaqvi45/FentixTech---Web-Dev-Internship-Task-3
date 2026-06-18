@@ -1,16 +1,25 @@
-# React + Vite
+# 🚀 Catalog-Z - Premium Photo & Video Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect, fully responsive clone of the **TemplateMo 556 Catalog-Z** website built using React 18, Vite, and Tailwind CSS. This project is developed as part of the **Fentix Tech Web Dev Internship Task**.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+You can check out the live working website here:
+👉 **[https://fentix-tech-web-dev-internship-task.vercel.app/](https://fentix-tech-web-dev-internship-task.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Dynamic Photos & Videos Catalog:** Separate, fully functional catalogs for high-quality stock photos and video files.
+- **Advanced Client-Side Search:** Real-time search filters to find photos and videos by their title or creator.
+- **Category Filter Tabs:** Sort content instantly by categories like *Latest*, *Trending*, and *Most Viewed*.
+- **Interactive Hover Effects:** Responsive grid items that scale up on hover (`scale-105`) and reveal author names, avatars, view counts, and download links.
+- **Split-Screen Detail Pages:**
+  - **Photo Detail Page:** Renders high-resolution image views, detailed metadata, related photo grids, and a direct download CTA.
+  - **Video Detail Page:** Implements fully controls-supported HTML5 Video Players, format/resolution specifications, and related video grids.
+- **About Us & Team Section:** Showcases company mission alongside card grids featuring profile pictures and social media links.
+- **Contact Form & Interactive Map:** Clean validation-supported Contact Form and an embedded responsive Google Maps widget.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies
